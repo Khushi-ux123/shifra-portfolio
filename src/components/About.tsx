@@ -13,7 +13,7 @@ export default function About() {
     {
       icon: Cpu,
       title: "Full Stack Development",
-      desc: "Building highly interactive frontend apps using React paired with modular Node/Express database controllers."
+      desc: "Building highly interactive frontend apps using React paired with robust Java / Advanced Java backend and MySQL databases."
     },
     {
       icon: Database,

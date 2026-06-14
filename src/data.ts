@@ -37,11 +37,11 @@ export const skillsData: SkillCategory[] = [
   {
     category: "Backend & DB",
     skills: [
-      { name: "Node.js", level: 80 },
-      { name: "Express.js", level: 82 },
+      { name: "Advanced Java", level: 90 },
+      { name: "MySQL", level: 88 },
       { name: "JDBC", level: 85 },
-      { name: "MySQL", level: 85 },
-      { name: "MongoDB", level: 75 }
+      { name: "Servlets & JSP", level: 80 },
+      { name: "Spring Boot", level: 82 }
     ]
   },
   {
@@ -51,8 +51,7 @@ export const skillsData: SkillCategory[] = [
       { name: "GitHub", level: 88 },
       { name: "IntelliJ IDEA", level: 85 },
       { name: "NetBeans", level: 75 },
-      { name: "VS Code", level: 90 },
-      { name: "Postman", level: 84 }
+      { name: "VS Code", level: 90 }
     ]
   },
   {
